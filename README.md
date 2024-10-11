@@ -100,4 +100,8 @@ Whether you're a student, professional, or curious individual, Chattr provides a
 
 ## License
 
-(Specify the license under which the project is released)
+This project is licensed under the [Your chosen license] License - see the [LICENSE](LICENSE) file for details.
+
+## Copyright
+
+Copyright (c) 2024 yatt.codes. All rights reserved.

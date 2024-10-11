@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2024 yatt.codes
+ * All rights reserved.
+ */
+
 import React, { useState } from 'react'
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import { SignedIn, SignedOut, useUser, SignIn, SignUp } from "@clerk/clerk-react"

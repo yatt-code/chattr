@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2024 yatt.codes
+ * All rights reserved.
+ */
+
 import React, { useState, useRef, useEffect } from 'react';
 import api from '../utils/api';
 import { 

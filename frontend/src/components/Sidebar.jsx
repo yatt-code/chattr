@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2024 yatt.codes
+ * All rights reserved.
+ */
+
 import React, { useState, useEffect } from 'react';
 import { Box, Typography, IconButton, List, ListItem, ListItemText, TextField, CircularProgress, Divider, SvgIcon } from '@mui/material';
 import AddIcon from '@mui/icons-material/Add';

@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2024 yatt.codes
+ * All rights reserved.
+ */
+
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
